@@ -2,7 +2,7 @@
 /*
 Plugin Name: Wp All import fields validation
 Plugin URI: https://petoasisksa.com
-Description: Validate the fields before the import and skip the wrong fields.
+Description: This is a simple addon for WP all import plugin is used to validate the fields before the import and skip the wrong fields.
 Author: Saleem Summour
 Version: 1.0.0
 Author URI: https://lvendr.com/
